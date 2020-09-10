@@ -1,4 +1,3 @@
 ### Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="25px">, I'm [Andrés](https://andresjjn.tech) ! 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresjjn" alt="andresjjn" /> </p>
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
