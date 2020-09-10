@@ -5,7 +5,7 @@
 ## 📫 Reach me
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=AndresFJejen&style=social&url=https%3A%2F%2Ftwitter.com%2FAndresFJejen)](https://twitter.com/AndresFJejen)
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.andresjt93%40gmail.com)](mailto:contact.andresjt93@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aandresjt93%40gmail.com)](mailto:andresjt93@gmail.com)
 
 
 ## 📈 Github stats
