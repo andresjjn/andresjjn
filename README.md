@@ -3,12 +3,9 @@
 # Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="25px">, I'm [Andrés](https://andresjjn.tech)! 
 
 - 🎓 Full Stack Software Engineer Student at <a href="https://www.holbertonschool.com/">Holberton School</a> and Mechatronical and control engineer (Former student)  
-- 🤖 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **Laravel & VueJS**
-- 💬 Ask me about: everything especially about **tech, movies, series**
-- **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-learning build with Laravel 7 
+- ❤️ Robotics and new technologies passionate
+- 🔥  On rogress Project: Improving english skills
+- 👨‍💻 Open to create new networks and learn new things
 
 ## 📫 Reach me
 
