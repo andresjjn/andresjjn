@@ -11,8 +11,8 @@
 - 🔥 On Progress Project: E-learning build with Laravel 7 
 
 ## 📈 Github stats
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true&hide_title=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn">
+<img src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true&hide_title=true">
 
 ## 📫 Reach me
 
