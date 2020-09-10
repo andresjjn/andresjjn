@@ -10,10 +10,6 @@
 - **I** ❤️ **to think, learn, code, and customize everything**
 - 🔥 On Progress Project: E-learning build with Laravel 7 
 
-## 📈 Github stats
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn">
-<img src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true&hide_title=true">
-
 ## 📫 Reach me
 
 [![Gmail URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aandresjt93%40gmail.com)](mailto:andresjt93@gmail.com)
@@ -21,3 +17,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=AndresFJejen&style=social&url=https%3A%2F%2Ftwitter.com%2FAndresFJejen)](https://twitter.com/AndresFJejen)
 [![Instagram URL](https://img.shields.io/twitter/url?label=andresjjn&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fandresjjn%2F)](https://www.instagram.com/andresjjn/)
 
+## 📈 Github stats
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn">
+<img src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true&hide_title=true">
