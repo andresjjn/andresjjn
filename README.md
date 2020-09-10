@@ -1,5 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=andresjjn" alt="andresjjn" /> </p>
 # Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="25px">, I'm [Andrés](https://andresjjn.tech)! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresjjn" alt="andresjjn" /> </p>
 
 
 ## 📫 Reach me
