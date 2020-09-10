@@ -3,4 +3,4 @@
 
 ## Github Stats
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn&hide=javascript,html">
-<src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true">
