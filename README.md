@@ -4,10 +4,10 @@
 
 ## 📫 Reach me
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=AndresFJejen&style=social&url=https%3A%2F%2Ftwitter.com%2FAndresFJejen)](https://twitter.com/AndresFJejen)
 [![Gmail URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aandresjt93%40gmail.com)](mailto:andresjt93@gmail.com)
+[![LinkedIn URL](https://img.shields.io/twitter/url?label=Andr%C3%A9s%20F%20Jej%C3%A9n%20T&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandresjjn%2F)](https://www.linkedin.com/in/andresjjn/)
+[![Twitter URL](https://img.shields.io/twitter/url?label=AndresFJejen&style=social&url=https%3A%2F%2Ftwitter.com%2FAndresFJejen)](https://twitter.com/AndresFJejen)
 [![Instagram URL](https://img.shields.io/twitter/url?label=andresjjn&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fandresjjn%2F)](https://www.instagram.com/andresjjn/)
-
 
 ## 📈 Github stats
 
