@@ -5,5 +5,5 @@
 <a href="https://twitter.com/AndresFJejen" target="blank"><img align="center" src="(https://img.shields.io/twitter/url?label=AndresFJejen&style=social&url=https%3A%2F%2Ftwitter.com%2FAndresFJejen)"/></a>
 
 ## 📈 Github stats
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn&hide=javascript,html">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresjjn">
 <img src="https://github-readme-stats.vercel.app/api?username=andresjjn&show_icons=true&hide_title=true">
