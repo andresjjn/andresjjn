@@ -4,8 +4,8 @@
 
 - 🎓 Full Stack Software Engineer Student at <a href="https://www.holbertonschool.com/">Holberton School</a> and Mechatronical and control engineer (Former student)  
 - ❤️ Robotics and new technologies passionate
-- 🔥  On rogress Project: Improving english skills
-- 👨‍💻 Open to create new networks and learn new things
+- 🔥  “Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” Roy T. Bennett, The Light in the Heart
+- 👨‍💻 Open to create new networks and share knowledge
 
 ## 📫 Reach me
 
