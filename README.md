@@ -2,7 +2,7 @@
 
 # Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="25px">, I'm [Andrés](https://andresjjn.tech)! 
 
-- 🎓 Full Stack Software Engineer Student at <a href="https://www.holbertonschool.com/">Holberton School</a> and Mechatronical and control engineer (Former student)  
+- 🎓 Full Stack Software Engineer at <a href="https://www.holbertonschool.com/">Holberton School</a> and Mechatronical and control engineer (Former student)  
 - ❤️ Robotics and new technologies passionate
 - 🔥  “Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.” Roy T. Bennett, The Light in the Heart
 - 👨‍💻 Open to create new networks and share knowledge
