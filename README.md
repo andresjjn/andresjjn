@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=andresjjn" alt="andresjjn" /> </p>
 
-# Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="25px">, I'm [Andrés](https://andresjjn.tech)! 
+# Hello there! <img src="https://github.com/andresjjn/andresjjn/blob/master/hi.gif" width="20px">, I'm [Andrés](https://andresjjn.tech)! 
 
 - 🎓 Full Stack Software Engineer && Mechatronical and control engineer (Former student)  
 - ❤️ Robotics and new technologies passionate
